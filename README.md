@@ -6,3 +6,5 @@ Milk
 Eggs
 Sugar
 Bananas
+
+make pancakes
